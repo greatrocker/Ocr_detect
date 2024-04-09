@@ -1,5 +1,7 @@
 我的第一個筆記檔案 part2
 #Windows & Linux 檔案共享 by docker
-#------------------------------------------------------------------------------
 //(1)(windows PowerShell) docker volume create first_vol
 //(2)docker volume ls  #查詢docker volume資料夾
+
+#---------------------------------------------------------------
+WSL 
